@@ -32,7 +32,5 @@ else
   do
     echo "The element with atomic number $ATOMIC_NUMBER is $NAME ($SYMBOL). It's a $TYPE, with a mass of $MASS amu. $NAME has a melting point of $MELTING celsius and a boiling point of $BOILING celsius."
   done
-fiSun 20 Sep 2026 05:49:05 AM EDT
-Sun 20 Sep 2026 05:49:22 AM EDT
-Sun 20 Sep 2026 05:49:40 AM EDT
-Sun 20 Sep 2026 05:49:56 AM EDT
+fi
+
